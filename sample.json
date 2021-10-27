@@ -37,7 +37,7 @@
                 "SOPInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.124",
                 "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
                 "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78",
-                "imageId": "1"
+                "imageId": "https://stage.omic.health/api/dicom-view-file/MTk3NQ?api_key=yeT9uJzM4J8LETRQ"
               },
               "url": "custom:https://stage.omic.health/api/dicom-view-file/MTk3NQ?api_key=yeT9uJzM4J8LETRQ"
             }
