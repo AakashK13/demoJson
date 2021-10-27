@@ -6,8 +6,8 @@
       "patientName": "Patient Name",
       "series": [
         {
-          "seriesInstanceUid": "1.23.2.32.1.2.1.3.2",
-          "seriesDescription": "Wikipedia Samples",
+          "SeriesInstanceUid": "1.23.2.32.1.2.1.3.2",
+          "SeriesDescription": "Wikipedia Samples",
           "instances": [
             {
               "SOPInstanceUID": "1.2.3.2.32.18.8",
@@ -22,8 +22,8 @@
           ]
         },
         {
-          "seriesInstanceUid": "1.33.2.32.1.2.1.3.2",
-          "seriesDescription": "JPS-sample",
+          "SeriesInstanceUid": "1.33.2.32.1.2.1.3.2",
+          "SeriesDescription": "JPS-sample",
           "instances": [
             {
               "SOPInstanceUID": "1.2.3.2.32.18.10",
