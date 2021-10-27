@@ -2,18 +2,19 @@
   "studies": [
     {
       "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78",
-      "StudyDescription": "Brain MRI Jpeg",
-      "StudyDate": "20190802",
-      "StudyTime": "",
-      "PatientName": "KUNAL K DESAI",
-      "PatientId": "8861",
+      "StudyDescription": "BRAIN SELLA",
+      "StudyDate": "20010108",
+      "StudyTime": "120022",
+      "PatientName": "MISTER^MR",
+      "PatientId": "832040",
       "series": [
         {
-          "SeriesDescription": "Brain MRI Jpeg",
+          "SeriesDescription": "SAG T-1",
           "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
           "SeriesNumber": 2,
           "SeriesDate": "20010108",
           "SeriesTime": "120318",
+          "Modality": "MR",
           "instances": [
             {
               "metadata": {
@@ -33,103 +34,7 @@
                 "FrameOfReferenceUID": "1.2.840.113619.2.5.1762583153.223134.978956938.470",
                 "ImageType": ["ORIGINAL", "PRIMARY", "OTHER"],
                 "Modality": "MR",
-                "SOPInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.1",
-                "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
-                "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78"
-              },
-              "url": "https://omic-staging.s3.amazonaws.com/media/img/documents/wTcACvJ0TSiZ5wKj?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ2P2U4ATGNZQ7K3A%2F20211027%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T075413Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=df0810ba407d9c4ea2586f4207e122d6f7bfd8b0b8c74f281a8fcc21f387a839"
-            },
-            {
-              "metadata": {
-                "Columns": 512,
-                "Rows": 512,
-                "InstanceNumber": 3,
-                "AcquisitionNumber": 0,
-                "PhotometricInterpretation": "MONOCHROME2",
-                "BitsAllocated": 16,
-                "BitsStored": 16,
-                "PixelRepresentation": 1,
-                "SamplesPerPixel": 1,
-                "PixelSpacing": [0.390625, 0.390625],
-                "HighBit": 15,
-                "ImageOrientationPatient": [0, 1, 0, 0, 0, -1],
-                "ImagePositionPatient": [11.6, -92.5, 98.099998],
-                "FrameOfReferenceUID": "1.2.840.113619.2.5.1762583153.223134.978956938.470",
-                "ImageType": ["ORIGINAL", "PRIMARY", "OTHER"],
-                "Modality": "MR",
-                "SOPInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.2",
-                "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
-                "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78"
-              },
-              "url": "https://omic-staging.s3.amazonaws.com/media/img/documents/2iggk5W7vT9TIRfY?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ2P2U4ATGNZQ7K3A%2F20211027%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T075413Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=81e88a60b8f85ea3d0636598ec85faef1487a5735ec5bd8018b080c146210982"
-            },
-            {
-              "metadata": {
-                "Columns": 512,
-                "Rows": 512,
-                "InstanceNumber": 3,
-                "AcquisitionNumber": 0,
-                "PhotometricInterpretation": "MONOCHROME2",
-                "BitsAllocated": 16,
-                "BitsStored": 16,
-                "PixelRepresentation": 1,
-                "SamplesPerPixel": 1,
-                "PixelSpacing": [0.390625, 0.390625],
-                "HighBit": 15,
-                "ImageOrientationPatient": [0, 1, 0, 0, 0, -1],
-                "ImagePositionPatient": [11.6, -92.5, 98.099998],
-                "FrameOfReferenceUID": "1.2.840.113619.2.5.1762583153.223134.978956938.470",
-                "ImageType": ["ORIGINAL", "PRIMARY", "OTHER"],
-                "Modality": "MR",
-                "SOPInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.3",
-                "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
-                "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78"
-              },
-              "url": "https://omic-staging.s3.amazonaws.com/media/img/documents/RgOCP0GqYYuTU9SP?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ2P2U4ATGNZQ7K3A%2F20211027%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T075413Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3fc01100f4639c2d802eedacb7d01f45b540779c19a69168c27b1674cd5987e0"
-            },
-            {
-              "metadata": {
-                "Columns": 512,
-                "Rows": 512,
-                "InstanceNumber": 3,
-                "AcquisitionNumber": 0,
-                "PhotometricInterpretation": "MONOCHROME2",
-                "BitsAllocated": 16,
-                "BitsStored": 16,
-                "PixelRepresentation": 1,
-                "SamplesPerPixel": 1,
-                "PixelSpacing": [0.390625, 0.390625],
-                "HighBit": 15,
-                "ImageOrientationPatient": [0, 1, 0, 0, 0, -1],
-                "ImagePositionPatient": [11.6, -92.5, 98.099998],
-                "FrameOfReferenceUID": "1.2.840.113619.2.5.1762583153.223134.978956938.470",
-                "ImageType": ["ORIGINAL", "PRIMARY", "OTHER"],
-                "Modality": "MR",
-                "SOPInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.4",
-                "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
-                "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78"
-              },
-              "url": "https://omic-staging.s3.amazonaws.com/media/img/documents/NRqcNeHRiDaQqmZn?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ2P2U4ATGNZQ7K3A%2F20211027%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T075413Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=84f559682cb9dfa02f8fc8891c87fb5dc51d2142a46e69e2c1c3d3776c30d007"
-            },
-            {
-              "metadata": {
-                "Columns": 512,
-                "Rows": 512,
-                "InstanceNumber": 3,
-                "AcquisitionNumber": 0,
-                "PhotometricInterpretation": "MONOCHROME2",
-                "BitsAllocated": 16,
-                "BitsStored": 16,
-                "PixelRepresentation": 1,
-                "SamplesPerPixel": 1,
-                "PixelSpacing": [0.390625, 0.390625],
-                "HighBit": 15,
-                "ImageOrientationPatient": [0, 1, 0, 0, 0, -1],
-                "ImagePositionPatient": [11.6, -92.5, 98.099998],
-                "FrameOfReferenceUID": "1.2.840.113619.2.5.1762583153.223134.978956938.470",
-                "ImageType": ["ORIGINAL", "PRIMARY", "OTHER"],
-                "Modality": "MR",
-                "SOPInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.5",
+                "SOPInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.124",
                 "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
                 "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78"
               },
