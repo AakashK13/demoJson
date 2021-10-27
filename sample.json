@@ -2,7 +2,7 @@
   "transactionId": "testId",
   "studies": [
     {
-      "studyInstanceUid": "23.23.21.3.32",
+      "StudyInstanceUID": "23.23.21.3.32",
       "patientName": "Patient Name",
       "series": [
         {
