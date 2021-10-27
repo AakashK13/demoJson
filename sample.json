@@ -38,7 +38,7 @@
                 "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
                 "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78"
               },
-              "url": "https://omic-staging.s3.amazonaws.com/media/img/documents/PebNVMV8PszeUG0C?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ2P2U4ATGNZQ7K3A%2F20211027%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T075413Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ff91a57d8d3cd86d51d27fe883c54b04c052dc48d3d811c123e46fa04288bfa3"
+              "url": "custom:https://omic-staging.s3.amazonaws.com/media/img/documents/PebNVMV8PszeUG0C?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ2P2U4ATGNZQ7K3A%2F20211027%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T075413Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ff91a57d8d3cd86d51d27fe883c54b04c052dc48d3d811c123e46fa04288bfa3"
             }
           ]
         }
