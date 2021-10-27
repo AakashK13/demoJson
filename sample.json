@@ -6,7 +6,7 @@
       "patientName": "Patient Name",
       "series": [
         {
-          "SeriesInstanceUid": "1.23.2.32.1.2.1.3.2",
+          "SeriesInstanceUID": "1.23.2.32.1.2.1.3.2",
           "SeriesDescription": "Wikipedia Samples",
           "instances": [
             {
@@ -22,7 +22,7 @@
           ]
         },
         {
-          "SeriesInstanceUid": "1.33.2.32.1.2.1.3.2",
+          "SeriesInstanceUID": "1.33.2.32.1.2.1.3.2",
           "SeriesDescription": "JPS-sample",
           "instances": [
             {
