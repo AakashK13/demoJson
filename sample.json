@@ -1,34 +1,64 @@
 {
-  "transactionId": "testId",
   "studies": [
     {
-      "studyInstanceUid": "23.23.21.3.32",
-      "patientName": "Patient Name",
-      "seriesList": [
+      "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78",
+      "StudyDescription": "Brain MRI Jpeg",
+      "StudyDate": "20190802",
+      "StudyTime": "",
+      "PatientName": "KUNAL K DESAI",
+      "PatientId": "8861",
+      "series": [
         {
-          "seriesInstanceUid": "1.23.2.32.1.2.1.3.2",
-          "seriesDescription": "Wikipedia Samples",
+          "SeriesDescription": "Brain MRI Jpeg",
+          "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
+          "SeriesNumber": 2,
+          "SeriesDate": "20010108",
+          "SeriesTime": "120318",
           "instances": [
             {
-              "sopInstanceUid": "1.2.3.2.32.18.8",
-              "rows": 1,
-              "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Example.jpg"
+              "metadata": {
+                "SOPInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.1",
+                "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
+                "rows": 1,
+                "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78"
+              },
+              "url": "dicomweb:https://omic-staging.s3.amazonaws.com/media/img/documents/wTcACvJ0TSiZ5wKj?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ2P2U4ATGNZQ7K3A%2F20211027%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T071653Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f0f4411d0c4c07c6c410d88a2f4656c79548da5b486689e9521bed4d8efa3882"
             },
             {
-              "sopInstanceUid": "1.2.3.2.32.18.9",
-              "rows": 1,
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sample_Floorplan.jpg/800px-Sample_Floorplan.jpg"
-            }
-          ]
-        },
-        {
-          "seriesInstanceUid": "1.33.2.32.1.2.1.3.2",
-          "seriesDescription": "JPS-sample",
-          "instances": [
+              "metadata": {
+                "SOPInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.2",
+                "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
+                "rows": 1,
+                "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78"
+              },
+              "url": "dicomweb:https://omic-staging.s3.amazonaws.com/media/img/documents/2iggk5W7vT9TIRfY?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ2P2U4ATGNZQ7K3A%2F20211027%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T071653Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=fad7c89591aa5d68d58681170e4bc5200aa7d9b4fd9729ae688438de46f563d8"
+            },
             {
-              "sopInstanceUid": "1.2.3.2.32.18.10",
-              "rows": 1,
-              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/JPS-sample.jpg/800px-JPS-sample.jpg"
+              "metadata": {
+                "SOPInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.3",
+                "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
+                "rows": 1,
+                "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78"
+              },
+              "url": "dicomweb:https://omic-staging.s3.amazonaws.com/media/img/documents/RgOCP0GqYYuTU9SP?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ2P2U4ATGNZQ7K3A%2F20211027%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T071653Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a8bbb591131a480f0bd1ab88e44fc590a895ca5ef10979d119ee057561ebd9e0"
+            },
+            {
+              "metadata": {
+                "SOPInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.4",
+                "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
+                "rows": 1,
+                "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78"
+              },
+              "url": "dicomweb:https://omic-staging.s3.amazonaws.com/media/img/documents/NRqcNeHRiDaQqmZn?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ2P2U4ATGNZQ7K3A%2F20211027%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T071653Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=965374a04bd222de3638f339b1f1590dd665e2909dcbfeb9d27ab61ec1b11869"
+            },
+            {
+              "metadata": {
+                "SOPInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.5",
+                "SeriesInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.121",
+                "rows": 1,
+                "StudyInstanceUID": "1.2.840.113619.2.5.1762583153.215519.978957063.78"
+              },
+              "url": "dicomweb:https://omic-staging.s3.amazonaws.com/media/img/documents/PebNVMV8PszeUG0C?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ2P2U4ATGNZQ7K3A%2F20211027%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T071653Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0d6323f0b6315095e1daf1936557f34da0403c862e65d0becec75616011113a1"
             }
           ]
         }
